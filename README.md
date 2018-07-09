@@ -36,9 +36,9 @@ Project Organization
 
 Visualization
 --------
-![Accumulated GDDs](./maps/Corn\ Growing\ Season\ GDDs\ 2017.png)
+![Accumulated GDDs](./maps/Corn Growing Season GDDs 2017.png)
 
-![Delta GDDs](./maps/Deviation\ from\ 5yr\ average\ 2017-09-15.png )
+![Delta GDDs](./maps/Deviation from 5yr average 2017-09-15.png )
 
-![Elevation](./maps/Elevation\ Map.png )
+![Elevation](./maps/Elevation Map.png )
 
